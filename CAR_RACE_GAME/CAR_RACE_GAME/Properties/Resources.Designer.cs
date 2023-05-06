@@ -83,6 +83,16 @@ namespace CAR_RACE_GAME.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap _1904671_arrow_arrow_right_change_direction_next_page_right_1225211 {
+            get {
+                object obj = ResourceManager.GetObject("1904671-arrow-arrow-right-change-direction-next-page-right_1225211", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap ambulance {
             get {
                 object obj = ResourceManager.GetObject("ambulance", resourceCulture);

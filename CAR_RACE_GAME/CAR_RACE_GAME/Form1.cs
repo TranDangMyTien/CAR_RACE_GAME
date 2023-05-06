@@ -156,7 +156,7 @@ namespace CAR_RACE_GAME
             }
             if ((string)tempCar.Tag == "carRight")
             {
-                tempCar.Left = carPosition.Next(245, 422);
+                tempCar.Left = carPosition.Next(245, 480);
             }
         }
 
@@ -209,6 +209,8 @@ namespace CAR_RACE_GAME
         {
             ResetGame();
         }
+
+        
 
         private void playSound()
         {
